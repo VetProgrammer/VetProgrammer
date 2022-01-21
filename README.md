@@ -1,6 +1,5 @@
 - 👋 Hi, I’m @VetProgrammer
-- 👀 ..
-- 📫 How to reach me
+
 
 <!---
 VetProgrammer/VetProgrammer is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
